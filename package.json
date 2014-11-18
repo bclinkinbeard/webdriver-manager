@@ -1,0 +1,28 @@
+{
+  "name": "webdriver-manager",
+  "description": "Webdriver manager",
+  "homepage": "https://github.com/angular/webdriver-manager",
+  "keywords": [
+    "test",
+    "testing",
+    "webdriver",
+    "webdriverjs",
+    "selenium"
+  ],
+  "author": "Julie Ralph <ju.ralph@gmail.com>",
+  "dependencies": {
+    "request": "~2.36.0",
+    "adm-zip": "0.4.4",
+    "optimist": "~0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angular/protractor.git"
+  },
+  "bin": {
+    "webdriver-manager": "bin/webdriver-manager"
+  },
+  "main": "lib/protractor.js",
+  "license": "MIT",
+  "version": "1.4.0"
+}
